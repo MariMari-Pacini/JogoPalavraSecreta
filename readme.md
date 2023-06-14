@@ -2,4 +2,4 @@ Este projeto tem um pequeno jogo de advinhação de palavra secreta que funciona
 
 Para ele é necessário apenas importar:
 
-os# palavra_secreta
+os
